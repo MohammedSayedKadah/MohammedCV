@@ -23,6 +23,16 @@ header {
     padding-bottom: 20px;
     border-bottom: 2px solid #e0e0e0;
     margin-bottom: 20px;
+    <style>
+    img {
+        width: 150px; /* Adjust width */
+        height: auto; /* Maintain aspect ratio */
+        border-radius: 50%; /* Circular image */
+        display: block; /* Center image */
+        margin: 0 auto; /* Center image */
+    }
+</style>
+
 }
 
 h1 {
